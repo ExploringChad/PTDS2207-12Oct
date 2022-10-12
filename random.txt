@@ -1,1 +1,1 @@
-I like using git, but it is kinda slow
+I like using git.
